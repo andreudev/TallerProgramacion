@@ -44,5 +44,5 @@ def clasificarEdades():
     return mostrarInfo
 
 
-mostrarInfo = clasificarEdades()
-mostrarInfo()
+mostarInfo = clasificarEdades()
+mostarInfo()
